@@ -4,9 +4,9 @@ Building AI products, creator workflows, and developer tooling with TypeScript a
 
 ## Recent Open Source Work
 
-- [microsoft/vscode#304731](https://github.com/microsoft/vscode/pull/304731) Fix new session focus from the chat sessions pane
-- [microsoft/vscode#304729](https://github.com/microsoft/vscode/pull/304729) Fix Claude agent title bar after first session creation
-- [microsoft/vscode#304686](https://github.com/microsoft/vscode/pull/304686) Fix wrapped title spacing on the agent sessions welcome page
+- Merged: [microsoft/vscode#304686](https://github.com/microsoft/vscode/pull/304686) Fix wrapped title spacing on the agent sessions welcome page
+- Open: [microsoft/vscode#305000](https://github.com/microsoft/vscode/pull/305000) Sync chat view title with widget model changes
+- Open: [microsoft/vscode#304731](https://github.com/microsoft/vscode/pull/304731) Fix new session focus from the chat sessions pane
 
 ## What I Build
 
