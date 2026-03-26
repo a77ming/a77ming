@@ -9,19 +9,9 @@ Building AI products, creator workflows, and developer tooling with TypeScript a
 ## Recent Open Source Work
 
 - Merged: [microsoft/vscode#304686](https://github.com/microsoft/vscode/pull/304686) Fix wrapped title spacing on the agent sessions welcome page
-- Open: [openclaw/openclaw#54906](https://github.com/openclaw/openclaw/pull/54906) fix(feishu): ignore empty card payloads
-- Open: [anthropics/claude-code#39174](https://github.com/anthropics/claude-code/pull/39174) fix(plugin-dev): flag unsafe hook script commands
-- Open: [openclaw/openclaw#54897](https://github.com/openclaw/openclaw/pull/54897) fix(discord): publish string-only snowflake arrays in config schema
-- Open: [openclaw/openclaw#54884](https://github.com/openclaw/openclaw/pull/54884) fix(minimax): mark MiniMax-M2.7 as image-capable
-- Open: [anthropics/claude-code#39166](https://github.com/anthropics/claude-code/pull/39166) fix(plugins): quote official hook script paths
-- Open: [anthropics/claude-code#39160](https://github.com/anthropics/claude-code/pull/39160) docs(plugins): add npm publishing guidance
-- Open: [shadcn-ui/ui#10178](https://github.com/shadcn-ui/ui/pull/10178) fix: send Accept header for registry fetches
-- Open: [mui/material-ui#48099](https://github.com/mui/material-ui/pull/48099) [material-ui][SwipeableDrawer] preserve paper ref when merging slot props
-- Open: [microsoft/vscode#305021](https://github.com/microsoft/vscode/pull/305021) Preserve quick pick target when opening agent sessions in background
-- Open: [microsoft/vscode#305014](https://github.com/microsoft/vscode/pull/305014) Open agent sessions to the side when requested
-- Open: [microsoft/vscode#305016](https://github.com/microsoft/vscode/pull/305016) Avoid ghost draft sessions from empty-state New Chat
 - Open: [microsoft/vscode#305007](https://github.com/microsoft/vscode/pull/305007) Respect explicit sidebar/editor targets in New Chat
 - Open: [microsoft/vscode#305000](https://github.com/microsoft/vscode/pull/305000) Sync chat view title with widget model changes
+- Open: [microsoft/vscode#304731](https://github.com/microsoft/vscode/pull/304731) Fix new session focus from the chat sessions pane
 
 ## Current Maintenance Focus
 
