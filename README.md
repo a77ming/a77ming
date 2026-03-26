@@ -6,17 +6,9 @@ Building AI products, creator workflows, and developer tooling with TypeScript a
 
 - [ClipScript](https://github.com/a77ming/clipscript): subtitle-first clipping tool for creators with public release notes, CI, issue templates, security policy, maintainer docs, and contributor guidance
 
-## Recent Open Source Work
-
-- Merged: [microsoft/vscode#304686](https://github.com/microsoft/vscode/pull/304686) Fix wrapped title spacing on the agent sessions welcome page
-- Open: [microsoft/vscode#305007](https://github.com/microsoft/vscode/pull/305007) Respect explicit sidebar/editor targets in New Chat
-- Open: [microsoft/vscode#305000](https://github.com/microsoft/vscode/pull/305000) Sync chat view title with widget model changes
-- Open: [microsoft/vscode#304731](https://github.com/microsoft/vscode/pull/304731) Fix new session focus from the chat sessions pane
-
 ## Current Maintenance Focus
 
 - Keeping ClipScript buildable, documented, and reviewable as a public OSS repo
-- Shipping small upstream fixes in larger projects where the review loop is fast
 - Improving issue triage, release hygiene, and contributor onboarding
 
 ## What I Build
@@ -24,7 +16,6 @@ Building AI products, creator workflows, and developer tooling with TypeScript a
 - AI workflow tools with real payment, delivery, and operations flows
 - Video and subtitle pipelines for clipping, dedupe, packaging, and publishing
 - Analysis tooling for content teams and lightweight operator workflows
-- Small, reviewable upstream fixes in large open-source codebases
 
 ## Selected Projects
 
@@ -38,4 +29,4 @@ Building AI products, creator workflows, and developer tooling with TypeScript a
 
 ## Working Style
 
-I prefer shipping usable products first, then tightening docs, DX, deployment, and maintainability. On the open-source side, I focus on targeted fixes that are easy to review and likely to merge.
+I prefer shipping usable products first, then tightening docs, DX, deployment, and maintainability.
