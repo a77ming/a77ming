@@ -9,10 +9,11 @@ Building AI products, creator workflows, and developer tooling with TypeScript a
 ## Recent Open Source Work
 
 - Merged: [microsoft/vscode#304686](https://github.com/microsoft/vscode/pull/304686) Fix wrapped title spacing on the agent sessions welcome page
+- Open: [microsoft/vscode#305021](https://github.com/microsoft/vscode/pull/305021) Preserve quick pick target when opening agent sessions in background
+- Open: [microsoft/vscode#305014](https://github.com/microsoft/vscode/pull/305014) Open agent sessions to the side when requested
 - Open: [microsoft/vscode#305016](https://github.com/microsoft/vscode/pull/305016) Avoid ghost draft sessions from empty-state New Chat
 - Open: [microsoft/vscode#305007](https://github.com/microsoft/vscode/pull/305007) Respect explicit sidebar/editor targets in New Chat
 - Open: [microsoft/vscode#305000](https://github.com/microsoft/vscode/pull/305000) Sync chat view title with widget model changes
-- Open: [microsoft/vscode#304731](https://github.com/microsoft/vscode/pull/304731) Fix new session focus from the chat sessions pane
 
 ## Current Maintenance Focus
 
