@@ -9,6 +9,7 @@ Building AI products, creator workflows, and developer tooling with TypeScript a
 ## Recent Open Source Work
 
 - Merged: [microsoft/vscode#304686](https://github.com/microsoft/vscode/pull/304686) Fix wrapped title spacing on the agent sessions welcome page
+- Open: [anthropics/claude-code#39174](https://github.com/anthropics/claude-code/pull/39174) fix(plugin-dev): flag unsafe hook script commands
 - Open: [openclaw/openclaw#54897](https://github.com/openclaw/openclaw/pull/54897) fix(discord): publish string-only snowflake arrays in config schema
 - Open: [openclaw/openclaw#54884](https://github.com/openclaw/openclaw/pull/54884) fix(minimax): mark MiniMax-M2.7 as image-capable
 - Open: [anthropics/claude-code#39166](https://github.com/anthropics/claude-code/pull/39166) fix(plugins): quote official hook script paths
